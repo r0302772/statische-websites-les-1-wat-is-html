@@ -1,0 +1,20 @@
+a) Surf met Chrome naar http://www.antwerpen.be/. Bekijk de broncode. Welke DTD wordt hier gebruikt?
+
+DTD = Document Type Definition
+Voor www.antwerpen.be is dit html
+
+b) Welke omschrijving en/of trefwoorden worden meegegeven aan de browser?
+
+Omschrijving = Officiële website van de stad Antwerpen met online dienstverlening (e-loket en afspraken), praktische informatie (contact en openingsuren), nieuws en vacatures.
+Titel = Welkom bij stad Antwerpen | Antwerpen.be
+Site naam = A-stad
+
+c) Valideer de webpagina. Is deze pagina valide?
+
+Ja
+
+d) In de code staat iets met favicon <link rel="icon" href="***/favicon/***.png" />.
+Zoek op het internet wat dit stukje code betekent.
+Waar zie je het effect van deze lijn code in Chrome?
+
+De favicon is het icoon / logo van de organisatie van de website. Het is terug te vinden links naast de titel van de website bovenaan het scherm.
